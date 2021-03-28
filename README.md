@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Wendy from Washington USA and I like to create software to help businesses run more efficiently. I'm currently
+I'm a CS undergraduate from UW Seattle and I like to create software to help businesses run more efficiently. I'm currently
 working on a webpage/mobile app that connects all foodie to local eateries in the area. I enjoy learning new tools 
 and programming languages and hope to become a fullstack developer one day.
 
