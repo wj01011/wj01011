@@ -1,5 +1,10 @@
-### Hi there, here is what I'm working On! 👋
+### Hi there 👋
 
+I'm Wendy from Washington USA and I like to create software to help businesses run more efficiently. I'm currently
+working on a webpage/mobile app that connects all foodie to local eateries in the area. I enjoy learning new tools 
+and programming languages and hope to become a fullstack developer one day.
+
+In my spare time, I like to play with my cat Kimba and create Youtube [videos](https://www.youtube.com/watch?v=PxHL8S7eFe8) for him. 
 <!--
 **wj01011/wj01011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
