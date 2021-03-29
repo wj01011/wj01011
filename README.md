@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### Software Projects
+### Software Development
 ![Software Projects](https://github.com/wj01011/wj01011/blob/main/programming.png?raw=true)
 
 I'm Wendy from Washington USA and I like to create software to help businesses run more efficiently. I'm currently
