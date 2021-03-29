@@ -1,21 +1,19 @@
 ### Hi there 👋
 
+### Hi there 👋, Wendy Jiang
+#### Software Projects
+![Software Projects](https://imgur.com/3u9t981)
+
 I'm Wendy from Washington USA and I like to create software to help businesses run more efficiently. I'm currently
-working on a webpage/mobile app that connects all foodie to local eateries in the area. I enjoy learning new tools 
-and programming languages and hope to become a fullstack developer one day.
+working on a webpage/mobile app that connects people to local eateries in the area. 
+I enjoy learning new tools and programming languages and hope to become a full-stack developer.
 
 In my spare time, I like to play with my cat Kimba and create Youtube [videos](https://www.youtube.com/watch?v=PxHL8S7eFe8) for him. 
-<!--
-**wj01011/wj01011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Skills: Python / Java / HTML / CSS / Javascript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this page. 
+
+
+
+
